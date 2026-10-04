@@ -1,0 +1,13 @@
+{
+  "id": "encyclopedie-eos",
+  "title": "Encyclopédie d'Éos",
+  "description": "Encyclopédie fantasy pour le monde d'Éos : articles typés (personnages, lieux, factions, peuples, magie, bestiaire, objets, histoire, croyances, livres, notes), cinq gabarits (fiche, parchemin, livre paginé, grimoire, classique), relations, rétroliens, sagas, chronologie, recherche, révélation progressive aux joueurs. Chaque article reste un journal Foundry.",
+  "version": "1.0.0",
+  "authors": [{ "name": "Bastien" }],
+  "compatibility": { "minimum": "13", "verified": "13.351" },
+  "esmodules": ["scripts/encyclopedie.js"],
+  "styles": ["styles/encyclopedie.css"],
+  "url": "https://github.com/blendbastien/encyclopedie-eos",
+  "manifest": "https://github.com/blendbastien/encyclopedie-eos/releases/latest/download/module.json",
+  "download": "https://github.com/blendbastien/encyclopedie-eos/releases/latest/download/encyclopedie-eos.zip"
+}
